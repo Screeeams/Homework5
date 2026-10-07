@@ -2,7 +2,7 @@
 ## Вариант 6
 Задание: Вычислить значение F
 
-
+.
 
 <img width="544" height="552" alt="2026-10-05_12-54-33" src="https://github.com/user-attachments/assets/1bfc54a6-a754-4a5b-b66f-2a513fe7070e" />
 
